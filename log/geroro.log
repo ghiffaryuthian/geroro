@@ -1,0 +1,98 @@
+2018/01/20 08:01:13 http.Post failed: Post https://api.telegram.org/bot472480310:AAFAsw1ZpOz-eRficAkRtNICHicB-SgTaNY/getMe: dial tcp: lookup api.telegram.org on 127.0.1.1:53: read udp 127.0.0.1:54409->127.0.1.1:53: i/o timeout
+2018/01/20 08:01:53 http.Post failed: Post https://api.telegram.org/bot472480310:AAFAsw1ZpOz-eRficAkRtNICHicB-SgTaNY/getMe: dial tcp: lookup api.telegram.org on 127.0.1.1:53: read udp 127.0.0.1:60861->127.0.1.1:53: i/o timeout
+2018/01/20 08:02:49 &{ID:247002132 FirstName:Ghiffary LastName:Yuthian Username:ghiffaryuthian}
+2018/01/20 08:04:12 &{ID:247002132 FirstName:Ghiffary LastName:Yuthian Username:ghiffaryuthian}
+2018/01/20 20:44:38 &{ID:247002132 FirstName:Ghiffary LastName:Yuthian Username:ghiffaryuthian}
+2018/01/20 20:44:38 &{ID:247002132 FirstName:Ghiffary LastName:Yuthian Username:ghiffaryuthian}
+2018/01/28 01:45:42 &{ID:247002132 FirstName:Ghiffary LastName:Yuthian Username:ghiffaryuthian}
+2018/01/28 02:24:02 TEST
+2018/01/28 02:25:10 TEST
+2018/01/28 02:28:39 ASD
+2018/01/28 02:29:52 ASD
+2018/01/28 02:29:57 ASD
+2018/01/28 02:30:08 ASD
+2018/01/28 02:43:40 ASD
+2018/01/28 02:44:57 ASD
+2018/01/28 02:45:19 http.Post failed: Post https://api.telegram.org/bot462334460:AAHJ5xzwpTFxIek9KARZlly82jZQ0bECzEw/getMe: dial tcp 149.154.167.199:443: i/o timeout
+2018/01/28 15:29:35 INFO: ASD
+2018/01/28 15:30:44 INFO: ASD
+2018/01/28 15:31:22 INFO: ASD
+2018/01/28 15:31:28 INFO: &{ID:7 Sender:0xc420017ec0 Unixtime:1517128286 Chat:0xc42048f5c0 OriginalSender:<nil> OriginalChat:<nil> OriginalUnixtime:0 ReplyTo:<nil> LastEdit:0 AlbumID: Signature: Text:/register Payload: Entities:[{Type:bot_command Offset:0 Length:9 URL: User:<nil>}] Caption: CaptionEntities:[] Audio:<nil> Document:<nil> Photo:<nil> Sticker:<nil> Voice:<nil> VideoNote:<nil> Video:<nil> Contact:<nil> Location:<nil> Venue:<nil> UserJoined:<nil> UserLeft:<nil> NewGroupTitle: NewGroupPhoto:<nil> UsersJoined:[] GroupPhotoDeleted:false GroupCreated:false SuperGroupCreated:false ChannelCreated:false MigrateTo:0 MigrateFrom:0 PinnedMessage:<nil>}
+2018/01/28 15:31:55 INFO: ASD
+2018/01/28 15:32:01 INFO: &{ID:247002132 FirstName:Ghiffary LastName:Yuthian Username:ghiffaryuthian}
+2018/01/28 15:32:20 INFO: GERORO STARTED
+2018/01/28 15:32:25 INFO: &{ID:247002132 FirstName:Ghiffary LastName:Yuthian Username:ghiffaryuthian}
+2018/01/28 15:33:05 INFO: GERORO STARTED
+2018/01/28 15:33:05 INFO: GERORO STOPPED
+2018/01/28 15:33:10 INFO: GERORO STARTED
+2018/01/28 15:33:10 INFO: GERORO STOPPED
+2018/01/28 15:33:23 INFO: GERORO STARTED
+2018/01/28 15:33:30 INFO: &{ID:247002132 FirstName:Ghiffary LastName:Yuthian Username:ghiffaryuthian}
+2018/01/28 15:35:35 INFO: GERORO STARTED
+2018/01/28 15:35:39 INFO: &{247002132 Ghiffary Yuthian ghiffaryuthian}
+2018/01/28 15:48:09 INFO: GeroroBot loaded
+2018/01/28 15:49:07 INFO: GeroroBot loaded
+2018/01/28 15:55:53 INFO: GeroroBot loaded
+2018/01/28 15:56:02 INFO: GeroroBot loaded
+2018/01/28 15:56:03 INFO: &{ID:247002132 FirstName:Ghiffary LastName:Yuthian Username:ghiffaryuthian}
+2018/01/28 15:58:16 INFO: GeroroBot loaded
+2018/01/28 15:58:23 INFO: &{ID:247002132 FirstName:Ghiffary LastName:Yuthian Username:ghiffaryuthian}
+2018/01/28 16:02:30 INFO: GeroroBot loaded
+2018/01/28 16:02:39 INFO: &{ID:247002132 FirstName:Ghiffary LastName:Yuthian Username:ghiffaryuthian}
+2018/01/28 16:04:51 INFO: GeroroBot loaded
+2018/01/28 16:04:56 INFO: Registered ghiffaryuthian
+2018/01/28 16:09:36 INFO: GeroroBot loaded
+2018/01/28 16:09:47 INFO: Registered ghiffaryuthian
+2018/01/28 16:17:20 INFO: GeroroBot loaded
+2018/01/28 16:17:30 INFO: Registered ghiffaryuthian
+2018/01/28 16:39:16 INFO: GeroroBot loaded
+2018/01/28 19:32:54 INFO: GeroroBot loaded
+2018/01/28 19:32:56 INFO: Registered ghiffaryuthian
+2018/01/28 19:34:37 INFO: NO
+2018/01/28 19:34:39 INFO: GeroroBot loaded
+2018/01/28 23:06:23 Error 1049: Unknown database '%!s(MISSING)'
+2018/01/28 23:06:54 INFO: root:password@(127.0.0.1:3306)/%!!(MISSING)s(MISSING)?charset=utf8&parseTime=True&loc=Local
+2018/01/28 23:06:54 Error 1049: Unknown database '%!s(MISSING)'
+2018/01/28 23:08:57 INFO: root:password@(127.0.0.1:geroro)//3306?charset=utf8&parseTime=True&loc=Local
+2018/01/28 23:08:57 invalid DSN: did you forget to escape a param value?
+2018/01/28 23:09:22 INFO: root:password@(127.0.0.1:3306)//geroro?charset=utf8&parseTime=True&loc=Local
+2018/01/28 23:09:22 invalid DSN: did you forget to escape a param value?
+2018/01/28 23:09:29 INFO: root:password@(127.0.0.1:3306)/geroro?charset=utf8&parseTime=True&loc=Local
+2018/01/28 23:09:29 Error 1049: Unknown database 'geroro'
+2018/01/28 23:09:45 INFO: root:password@(127.0.0.1:3306)/geroro_development?charset=utf8&parseTime=True&loc=Local
+2018/01/28 23:09:47 INFO: GeroroBot loaded
+2018/01/28 23:09:58 INFO: Registered ghiffaryuthian
+2018/01/28 23:15:59 INFO: root:password@(127.0.0.1:3306)/geroro_development?charset=utf8&parseTime=True&loc=Local
+2018/01/28 23:16:01 INFO: GeroroBot loaded
+2018/01/28 23:47:50 INFO: GeroroBot loaded
+2018/01/28 23:48:02 INFO: Registered ghiffaryuthian
+2018/01/28 23:54:58 INFO: GeroroBot loaded
+2018/01/28 23:59:32 INFO: GeroroBot loaded
+2018/01/29 00:01:38 INFO: GeroroBot loaded
+2018/01/29 00:02:29 INFO: GeroroBot loaded
+2018/01/29 00:10:12 INFO: GeroroBot loaded
+2018/01/29 00:11:43 INFO: GeroroBot loaded
+2018/01/29 00:27:13 INFO: GeroroBot loaded
+2018/01/29 00:27:22 INFO: GeroroBot loaded
+2018/01/29 00:27:23 INFO: Registered ghiffaryuthian
+2018/01/29 00:27:35 INFO: GeroroBot loaded
+2018/01/29 00:27:36 INFO: Registered ghiffaryuthian
+2018/01/29 00:29:01 INFO: GeroroBot loaded
+2018/01/29 00:29:06 INFO: Registered ghiffaryuthian
+2018/01/29 00:29:11 INFO: Registered ghiffaryuthian
+2018/01/29 00:29:14 INFO: Registered ghiffaryuthian
+2018/01/29 00:29:27 INFO: GeroroBot loaded
+2018/01/29 00:29:35 INFO: Registered ghiffaryuthian
+2018/01/29 00:29:36 INFO: Registered ghiffaryuthian
+2018/01/29 00:29:44 INFO: Registered ghiffaryuthian
+2018/01/29 00:30:44 INFO: GeroroBot loaded
+2018/01/29 00:30:49 INFO: Registered ghiffaryuthian
+2018/01/29 00:30:49 INFO: Registered ghiffaryuthian
+2018/01/29 00:30:51 INFO: Registered ghiffaryuthian
+2018/01/29 00:31:49 INFO: Database loaded
+2018/01/29 00:31:50 INFO: GeroroBot loaded
+2018/01/29 00:31:58 INFO: Registered ghiffaryuthian
+2018/01/29 00:33:02 INFO: Registered ghiffaryuthian
+2018/01/29 00:38:53 INFO: Database loaded
+2018/01/29 00:38:55 INFO: GeroroBot loaded
+2018/01/29 00:39:21 INFO: Registered ghiffaryuthian
