@@ -4,6 +4,7 @@ import (
   "fmt"
   "os"
   "github.com/ghiffaryuthian/geroro/log"
+  "github.com/ghiffaryuthian/geroro/entity"
   "github.com/subosito/gotenv"
   "github.com/jinzhu/gorm"
   _ "github.com/jinzhu/gorm/dialects/mysql"
@@ -25,10 +26,15 @@ func Database() (db *gorm.DB) {
 
   dataSourceName := fmt.Sprintf("%s:%s@(%s:%s)/%s?charset=utf8&parseTime=True&loc=Local", par...)
   db, err := gorm.Open("mysql", dataSourceName)
+  syncEntities(db)
   if err == nil{
     logger.Info("Database loaded")
   } else {
     logger.Error("Failed to load Database")
   }
   return 
+}
+
+func syncEntities(db *gorm.DB) {
+  db.AutoMigrate(&entity.User{})
 }

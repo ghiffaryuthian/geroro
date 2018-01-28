@@ -8,6 +8,7 @@ fixture/result.pdf
 resource/*_test.go
 bindata
 !resource/resource_test.go
+log/*.log
 
 # Jetbrains Gogland
 .idea/

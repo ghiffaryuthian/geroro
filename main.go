@@ -9,10 +9,10 @@ import (
 
 func main() {
   geroro := app.Instance()
-  bot := geroro.Bot()
+  bot    := geroro.Bot()
 
   bot.Handle("/register", func(m *tb.Message) {
-    handler.CreateUser(m.Sender)
+    handler.CreateUser(m)
   })
 
   bot.Start()

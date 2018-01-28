@@ -17,6 +17,11 @@ func Info(format string, a ...interface{}) {
   log.Printf(format, a...)
 }
 
+func Warn(format string, a ...interface{}) {
+  format = "WARN: " + format
+  log.Printf(format, a...)
+}
+
 func Error(a ...interface{}) {
   log.Fatal(a...)
 }

@@ -96,3 +96,50 @@
 2018/01/29 00:38:53 INFO: Database loaded
 2018/01/29 00:38:55 INFO: GeroroBot loaded
 2018/01/29 00:39:21 INFO: Registered ghiffaryuthian
+2018/01/29 00:51:23 INFO: Database loaded
+2018/01/29 00:51:25 INFO: GeroroBot loaded
+2018/01/29 00:51:31 INFO: Registered ghiffaryuthian
+2018/01/29 01:04:09 INFO: Database loaded
+2018/01/29 01:04:11 INFO: GeroroBot loaded
+2018/01/29 01:05:17 INFO: Database loaded
+2018/01/29 01:05:19 INFO: GeroroBot loaded
+2018/01/29 01:05:25 INFO: Registered ghiffaryuthian
+2018/01/29 01:35:24 INFO: Database loaded
+2018/01/29 01:35:25 INFO: GeroroBot loaded
+2018/01/29 01:35:37 INFO: Registered ghiffaryuthian
+2018/01/29 01:40:46 INFO: Database loaded
+2018/01/29 01:40:47 INFO: GeroroBot loaded
+2018/01/29 01:40:50 INFO: Registered ghiffaryuthian
+2018/01/29 01:41:26 INFO: Database loaded
+2018/01/29 01:41:28 INFO: GeroroBot loaded
+2018/01/29 01:41:35 INFO: Registered ghiffaryuthian
+2018/01/29 01:47:22 INFO: Database loaded
+2018/01/29 01:47:24 INFO: GeroroBot loaded
+2018/01/29 01:51:11 INFO: Registered ghiffaryuthian
+2018/01/29 01:52:28 INFO: Database loaded
+2018/01/29 01:52:29 INFO: GeroroBot loaded
+2018/01/29 01:52:34 INFO: Registered ghiffaryuthian
+2018/01/29 01:53:57 INFO: Database loaded
+2018/01/29 01:53:59 INFO: GeroroBot loaded
+2018/01/29 01:54:16 INFO: Registered ghiffaryuthian
+2018/01/29 01:55:13 INFO: Registered ghiffaryuthian
+2018/01/29 02:12:32 INFO: Database loaded
+2018/01/29 02:12:33 INFO: GeroroBot loaded
+2018/01/29 02:13:55 INFO: Database loaded
+2018/01/29 02:13:57 INFO: GeroroBot loaded
+2018/01/29 02:14:02 INFO: Registered ghiffaryuthian
+2018/01/29 02:14:08 %v
+[Error 1062: Duplicate entry '247002132' for key 'uix_users_telegram_id']
+2018/01/29 02:23:47 INFO: Database loaded
+2018/01/29 02:23:48 INFO: GeroroBot loaded
+2018/01/29 02:23:53 INFO: You have already been registered before
+2018/01/29 02:28:02 INFO: Database loaded
+2018/01/29 02:28:03 INFO: GeroroBot loaded
+2018/01/29 02:28:07 WARN: ID:247002132: ghiffaryuthian already exists in db
+2018/01/29 02:29:20 INFO: Database loaded
+2018/01/29 02:29:22 INFO: GeroroBot loaded
+2018/01/29 02:29:26 WARN: ID:247002132 ghiffaryuthian already exists in db
+2018/01/29 02:30:23 INFO: Database loaded
+2018/01/29 02:30:25 INFO: GeroroBot loaded
+2018/01/29 02:30:29 WARN: ID:247002132 ghiffaryuthian already exists in db
+2018/01/29 02:30:30 WARN: ID:247002132 ghiffaryuthian already exists in db
