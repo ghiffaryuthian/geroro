@@ -18,11 +18,13 @@ func Database() (db *gorm.DB) {
     dbPort = "3306"
   }
   
-  par := []interface{}{ os.Getenv("DATABASE_USERNAME"),
-                        os.Getenv("DATABASE_PASSWORD"),
-                        os.Getenv("DATABASE_HOST"),
-                        string(dbPort),
-                        os.Getenv("DATABASE_NAME") }
+  par := []interface{}{ 
+          os.Getenv("DATABASE_USERNAME"),
+          os.Getenv("DATABASE_PASSWORD"),
+          os.Getenv("DATABASE_HOST"),
+          string(dbPort),
+          os.Getenv("DATABASE_NAME"),
+        }
 
   dataSourceName := fmt.Sprintf("%s:%s@(%s:%s)/%s?charset=utf8&parseTime=True&loc=Local", par...)
   db, err := gorm.Open("mysql", dataSourceName)

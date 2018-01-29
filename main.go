@@ -12,8 +12,14 @@ func main() {
   bot    := geroro.Bot()
 
   bot.Handle("/register", func(m *tb.Message) {
-    handler.CreateUser(m)
+    handler.Register(m)
   })
+
+  bot.Handle("/update", func(m *tb.Message) {
+    handler.Update(m)
+  })
+
+
 
   bot.Start()
 }

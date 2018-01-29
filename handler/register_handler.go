@@ -7,15 +7,16 @@ import (
   tb "gopkg.in/tucnak/telebot.v2"
 )
 
-func CreateUser(message *tb.Message) {
+func Register(message *tb.Message) {
   geroro := app.Instance()
   bot    := geroro.Bot()
-
   sender := message.Sender
-  new_user := entity.User{ TelegramID: sender.ID,
-                           FirstName: sender.FirstName,
-                           LastName: sender.LastName,
-                           Username: sender.Username } 
+  new_user := entity.User{ 
+                TelegramID: sender.ID,
+                FirstName: sender.FirstName,
+                LastName: sender.LastName,
+                Username: sender.Username,
+              } 
   if err := user.Create(new_user); err != nil {
     bot.Reply(message, err.Error())
   } else {
